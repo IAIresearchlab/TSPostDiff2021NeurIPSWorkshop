@@ -1,4 +1,4 @@
-
+# PostDiff and Top-2 TS simulation
 
 ######################################################### Define PostDiff TS  and Top-2 TS
 TSPostDiff_sim <- function(pa,pb,n,c){
